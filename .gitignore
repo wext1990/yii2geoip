@@ -1,0 +1,11 @@
+# IDE project files
+.idea
+nbproject
+
+# Composer
+/vendor
+/composer.lock
+
+# System trash
+Thumbs.db
+.DS_Store

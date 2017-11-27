@@ -1,0 +1,22 @@
+{
+    "name": "wext/yii2-geoip",
+    "description": "Yii2 GeoIP component",
+    "version": "1.0",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=7.0.0",
+        "yiisoft/yii2": "~2.0.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "wext\\yii2geoip\\": "src"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
